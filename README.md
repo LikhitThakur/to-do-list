@@ -1,6 +1,6 @@
-# RP To-Do
+# To-Do
 
-**RP To-Do** is a command-line interface application built with [Typer](https://typer.tiangolo.com/) to help you manage your to-do list.
+**To-Do** is a command-line interface application built with [Typer](https://typer.tiangolo.com/) to help you manage your to-do list.
 
 ## Installation
 
@@ -75,7 +75,7 @@ Calling `--help` on each command provides specific and useful information about 
 
 ## Features
 
-**RP To-Do** has the following features:
+**To-Do** has the following features:
 
 | Command            | Description                                                  |
 | ------------------ | ------------------------------------------------------------ |
@@ -85,12 +85,3 @@ Calling `--help` on each command provides specific and useful information about 
 | `complete TODO_ID` | Completes a to-do by setting it as done using its `TODO_ID`. |
 | `remove TODO_ID`   | Removes a to-do from the database using its `TODO_ID`.       |
 | `clear`            | Removes all the to-dos by clearing the database.             |
-
-## Release History
-
-- 0.1.0
-  - A work in progress
-
-## About the Author
-
-Leodanis Pozo Ramos - Email: leodanis@realpython.com
